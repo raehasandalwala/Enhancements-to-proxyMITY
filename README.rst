@@ -35,7 +35,7 @@ junctures.
 Contents
 =====================
 
-  1. Introduction 
+  1. `Introduction <https://github.com/androportal/linux-on-aakash/blob/master/setting_up_the_hardware.rst>`_
 
 	1.1 Purpose
 	
@@ -45,7 +45,7 @@ Contents
 		
 	1.4 Proposed System
 	
-	1.5 Definitions, Acronyms,Abbreviations
+	1.5 Definitions, Acronyms, Abbreviations
 
 	1.6 Overview
 	
