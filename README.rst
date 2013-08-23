@@ -88,7 +88,6 @@ View the lecture using Wi-Fi connectivity
 
 FUNCTIONALITY
 --------------
-
 NAVIGATION
 ```````````
 • To navigate through the video lecture select the arrow button placed on the extreme right hand side of the video lecture display as shown in
