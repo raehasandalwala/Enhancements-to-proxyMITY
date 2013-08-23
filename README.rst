@@ -59,7 +59,8 @@ View lecture using SDCard/Pendrive
 
 • If u click on the left arrow a list of video lectures will be displayed as shown in figure below Figure(4.9)
 
-• View the lecture using Wi-Fi connectivity.
+View the lecture using Wi-Fi connectivity
+``````````````````````````````````````````
 
 • Connect Aakash Tablet with Wi-Fi.
 
