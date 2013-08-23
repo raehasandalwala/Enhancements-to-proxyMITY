@@ -101,65 +101,82 @@ NAVIGATION
 • To navigate through the video lecture select the arrow button placed
 on the extreme right hand side of the video lecture display as shown in
 the figure below.
+
 • A list of topics will be displayed on the extreme right.
+
 • Select the desired topic to view.
 
 Bookmark
 `````````
 • To bookmark from particular time in the video lecture select the
-menu button present on top ..
+menu button present on top.
+
 • Click on the menu button and select the bookmark option as shown
-in the figure .
+in the figure.
 Figure(4.16)
+
 • Click on the bookmark option and the bookmark tab will
 be displayed as shown in the figure below
 Figure(4.17)
-You can select the bookmark from My Bookmarks tab to view the
+
+• You can select the bookmark from My Bookmarks tab to view the
 video lecture present in the SD-card/pendrive/server from the time as
 saved in the My Bookmark.
-•
+
 • To create a new bookmark click on new Bookmark
 option and the new bookmark option tab will be
 displayed as shown in the figure below.
 Figure(4.18)
+
 • Then you have to enter the Video name and the Bookmark Tag.
 • The start time is the time of the video lecture when you selected the
 bookmark option from menu.
 Figure(4.19)
+
 • Then you have to enter the Video name and the Bookmark Tag.
+
 • The start time is the time of the video lecture when you selected the
 bookmark option from menu.
 Figure(4.20)
+
 • Now select Add Bookmark button to save the bookmark.
+
 • When bookmark is saved, a message is displayed as shown in the
 figure below.
 Figure(4.21)
+
 The bookmark is the saved in the My Bookmarks tab as shown in the
 figure below
+
 • To update/delete the bookmark in the My Bookmark tab keep that
 particular bookmark pressed till you see a dialog box as shown in the
 figure below.
-. Figure(4.22)
+.Figure(4.22)
+
 • Now you can update/delete that particular bookmark.
 
 Drag And Drop
 ``````````````
-•
-By clicking on the left arrow a list of videos will
+• By clicking on the left arrow a list of videos will
 be displayed as shown in the figure
-•
-The user can select any one of videos among
+
+• The user can select any one of videos among
 them and they can easily drag and drop it at the
 centre as shown in the figure below.
 Figure(4.25)
+
 • The video is played as shown in the figure below
 Figure(4.26)
-• Transcripts
-This feature provides the overall description of the particular video
+
+Transcripts
+````````````
+• This feature provides the overall description of the particular video
 on the right side.
-By clicking on the particular sentence we can navigate in the video.
-By clicking on the toggle button we can extend the part of
-transcripts.
+
+• By clicking on the particular sentence we can navigate in the video.
+
+• By clicking on the toggle button we can extend the part of
+ transcripts.
 Figure(4.27)
 
 Quiz Session
