@@ -35,7 +35,7 @@ junctures.
 Contents
 =====================
 
-  1. `Introduction <https://github.com/androportal/linux-on-aakash/blob/master/setting_up_the_hardware.rst>`_
+  1. `Introduction <https://github.com/raehasandalwala/Enhancements-to-proxyMITY/edit/master/Introduction.rst>`_
 
 	1.1 Purpose
 	
