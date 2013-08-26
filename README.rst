@@ -99,7 +99,7 @@ NAVIGATION
 
 • Select the desired topic to view.
 .. image::
-   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/12.png
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/23.png
 
 
 Bookmark
@@ -161,7 +161,7 @@ Transcripts
 • By clicking on the toggle button we can extend the part of
   transcripts.
 .. image::
-   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/12.png
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/23.png
 
 
 Quiz Session
