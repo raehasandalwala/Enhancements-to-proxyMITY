@@ -76,7 +76,7 @@ Contents
 
 	2.4 Other Non-Functional Requirements
 
-  3. `Design Document and Implementation <https://github.com/raehasandalwala/Enhancements-to-proxyMITY/blob/master/Design Document and Implementation.rst>`_
+  3. `Design Document and Implementation <https://github.com/raehasandalwala/Enhancements-to-proxyMITY/blob/master/DesignDocumentandImplementation.rst>`_
 
 	3.1 Resource Requirement
 
