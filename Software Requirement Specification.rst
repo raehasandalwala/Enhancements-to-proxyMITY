@@ -6,14 +6,11 @@ Overall Description
 
 Product Functionality
 ``````````````````````
-• User can easily view the video lecture present in the SD-Card or on
-a server.
+• User can easily view the video lecture present in the SD-Card or on a server.
 
-• The user can easily navigate through the video lecture using the tree
-functionality of this product.
+• The user can easily navigate through the video lecture using the tree functionality of this product.
 
-• The user can store the videos by adding and updating the bookmark
-feature.
+• The user can store the videos by adding and updating the bookmark feature.
 
 • The user can easily watch the videos along with transcripts.
 
@@ -27,29 +24,26 @@ Operating Environment
 
 Design and Implementation Constraints
 `````````````````````````````````````
-• Video format MP4(H.264) is not compatible with this
-software running Android 2.2 OS or above.
+• Video format MP4(H.264) is not compatible with this software running Android 2.2 OS or above.
 
 User Documentation
 ``````````````````
-• User will be provided with the user manual along with the
-software.
+• User will be provided with the user manual along with the software.
 
 Assumptions and Dependencies
+`````````````````````````````
 • The deadline must be met.
+
 • The product must be reliable.
+
 • The product should provide best performance.
+
 • It should provide user-friendly environment.
-• The architecture must be open so that additional
-functionality may be added later.
+
+• The architecture must be open so that additional functionality may be added later.
+
 • Tools we are going to use
-
-
-
-
-
-
-JDK 1.6 or later
+  JDK 1.6 or later
 JRE 1.6 or later
 Eclipse
 Android SDK
