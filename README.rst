@@ -64,10 +64,6 @@ View the lecture using Wi-Fi connectivity
 
 • Connect Aakash Tablet with Wi-Fi.
 
-• You can see an icon for Wi-Fi connection on top of the screen of tablet as shown figure below. 
-  This means that tablet is connected with Wi-Fi.
-  Figure(4.10)
-
 • Now in the Aakash Applications click on the proxyMITY-WiFi icon as shown in the figure.
 
 • Select the menu button present on top as shown in figure below.
@@ -101,6 +97,9 @@ NAVIGATION
 • A list of topics will be displayed on the extreme right.
 
 • Select the desired topic to view.
+.. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/12.png
+
 
 Bookmark
 `````````
@@ -141,17 +140,16 @@ The bookmark is the saved in the My Bookmarks tab as shown in the figure below
 
 Drag And Drop
 ``````````````
-• By clicking on the left arrow a list of videos will
-  be displayed as shown in the figure
+• By clicking on the left arrow a list of videos will   be displayed as shown in the figure
 
-• The user can select any one of videos among
+• The user can select any one of videos among 
   them and they can easily drag and drop it at the
   centre as shown in the figure below.
-  Figure(4.25)
+.. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/12.png
 
-• The video is played as shown in the figure below
-  Figure(4.26)
-
+• The video is then played.
+ 
 Transcripts
 ````````````
 • This feature provides the overall description of the particular video
@@ -161,21 +159,29 @@ Transcripts
 
 • By clicking on the toggle button we can extend the part of
   transcripts.
-  Figure(4.27)
+.. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/12.png
+
 
 Quiz Session
 `````````````
-• After listening all the lectures the student can attend the quiz session in order to test their efficiency.
+• After listening all the lectures the student can attend the quiz session in order to test their understanding.
 
 • The Quiz session contains questions and each question contains four choices and as shown in the figure below.
-  Figure(4.28)
+ .. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/7.png
+
  
 • By clicking on next button,the next question is displayed after completing the quiz click on the submit
   button as shown in the figure below.
-  Figure(4.29)
+ .. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/8.png
+
 
 • Then the result is displayed as shown in the figure below
-  Figure(4.30)
+ .. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/9.png
+
 
 Summary and Conclusion
 ----------------------
