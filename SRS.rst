@@ -35,7 +35,7 @@ junctures.
 Contents
 =====================
 
-  1. `Introduction <https://github.com/raehasandalwala/Enhancements-to-proxyMITY/edit/master/Introduction.rst>`_
+  1. `Introduction <https://github.com/raehasandalwala/Enhancements-to-proxyMITY/blob/master/Introduction.rst>`_
 
 	1.1 Purpose
 	
