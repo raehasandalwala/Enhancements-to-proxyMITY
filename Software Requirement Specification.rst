@@ -105,22 +105,22 @@ Behavioral Requirements
 ```````````````````````
 **Usecase Diagram for Application**
 .. image::
-   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/13.png
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/1.png
    
 **Usecase Diagram for Video Lecture**
 .. image::
-   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/13.png
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/2.png
    
 **Usecase Diagram for Bookmarking**
 .. image::
-   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/13.png
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/3.png
 
 **Use case Diagram for Videos with Subtitles Viewing**
 .. image::
-   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/13.png
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/4.png
 **Use case Diagram for Quiz Session**
 .. image::
-   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/13.png
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/5.png
    
 Other Non-Functional Requirements
 ``````````````````````````````````
