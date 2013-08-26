@@ -14,18 +14,18 @@ Introduction
    		    
 • Click on the launcher icon provided on the right hand side of the screen of the tablet as shown in the figure below.
  .. image::
-   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/13.jpg
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/13.png
 
 • Then you will see on the screen all the application present in the tablet.
 
 • Then click on the Aakash Applications icon present in the tablet as shown in the figure below.
  .. image::
-   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/14.jpg
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/14.png
 
 • On click of the Aakash Applications icon you will see the icons of all the applications present in the tablet.
   Select the proxyMITY icon as shown in the figure below.
  .. image::
-   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/15.jpg
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/15.png
 
 View lecture from proxyMITY
 ----------------------------
