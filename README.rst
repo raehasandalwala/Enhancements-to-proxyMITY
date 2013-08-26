@@ -9,12 +9,9 @@ Introduction
   using proxyMITY.
 
 • When you switch ON the tablet you will see on the screen, the display similar as shown in the figure below.
- .. figure::  _image/1.png
-   		     :align:   center
-		     :height: 600px
-   		     :width: 800 px
-   		     :scale: 50 %
-   		     
+ .. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/1.jpg
+   		    
 • Click on the launcher icon provided on the right hand side of the screen of the tablet as shown in the figure below.
 
 • Then you will see on the screen all the application present in the tablet.
