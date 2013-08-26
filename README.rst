@@ -13,17 +13,19 @@ Introduction
    https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/1.jpg
    		    
 • Click on the launcher icon provided on the right hand side of the screen of the tablet as shown in the figure below.
+ .. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/13.png
 
 • Then you will see on the screen all the application present in the tablet.
 
 • Then click on the Aakash Applications icon present in the tablet as shown in the figure below.
+ .. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/14.png
 
-• On click of the Aakash Applications icon you will see the icons of all the applications present in the Aakash Applications as 
-  shown in the figure below.
-
-• To view the lecture using SD card/pendrive, select the proxyMITY icon present in the Aakash Applications as shown in the figure below.
-
-• To view the lectures using Wi-Fi , select the proxyMITY-WiFi icon present in the Aakash Applications as shown in the figure below.
+• On click of the Aakash Applications icon you will see the icons of all the applications present in the tablet.
+  Select the proxyMITY icon as shown in the figure below.
+ .. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/15.png
 
 View lecture from proxyMITY
 ----------------------------
@@ -43,10 +45,11 @@ View lecture using SDCard/Pendrive
 • Now in the Aakash Applications select the proxyMITY icon as shown in the figure
 
 • A list of lectures will be displayed as shown in the sample figure below.
-
+.. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/2.jpg
+   		    
 • The lectures will be played automatically from SDCard/pendrive.
 
-• An example video list is displayed in the form of thumbnails As shown in the figure below
 
 • From the above list of videos the user can select any one of them and this will be displayed as shown in the
   figure below
