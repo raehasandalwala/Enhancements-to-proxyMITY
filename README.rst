@@ -72,23 +72,24 @@ View the lecture using Wi-Fi connectivity
 
 • Select the menu button present on top as shown in figure below.
  .. image::
-   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/16.jpg
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/16.png
    		    
 
 • Then ‘Wifi-Setting’ option in menu is displayed as shown in the figure below.
  .. image::
-   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/17.jpg
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/17.png
 
 • A dialog box is displayed with an input text field as shown in figure below
  .. image::
-   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/18.jpg
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/18.png
 
 • Enter the IP address of the server from where you want to fetch the video lecture. (eg: 10.105.14.224)
 
 • Select OK to confirm.
 
 • Then you will a list of video lectures present on the server as shown in the figure below.
-  Figure (4.14)
+ .. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/2.jpg
 
 FUNCTIONALITY
 --------------
