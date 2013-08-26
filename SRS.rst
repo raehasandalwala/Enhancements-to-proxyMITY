@@ -50,7 +50,7 @@ Contents
 	1.6 Overview
 	
 
-  2. `Software Requirement Specification <https://github.com/raehasandalwala/Enhancements-to-proxyMITY/blob/master/Software Requirement Specification.rst>`_
+  2. `Software Requirement Specification <https://github.com/raehasandalwala/Enhancements-to-proxyMITY/blob/master/SoftwareRequirementSpecification.rst>`_
   
 	2.1 Introduction
 	
