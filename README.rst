@@ -28,9 +28,12 @@ Introduction
    https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/15.png
    
 • To view the lecture using SD card/pendrive, select the SD-card button icon as shown in the figure below.
-
-• To view the lectures using Wi-Fi , select the WiFi button icon as shown in the figure below.
+ .. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/21.png
    
+• To view the lectures using Wi-Fi , select the WiFi button icon as shown in the figure below.
+ .. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/22.png  
 
 View lecture from proxyMITY
 ----------------------------
@@ -42,14 +45,12 @@ View lecture using SDCard/Pendrive
 
 • Wait for 10 seconds for the pendrive/SD card to be detected by the Aakash tablet.
 
-• A message stating PREPARING SD CARD will be displayed on the notification bar on the top of the Aakash tablet screen 
-  as shown in the figure below.
+• A message stating PREPARING SD CARD will be displayed on the notification bar on the top of the Aakash tablet screen. 
   
 • This means the pendrive/SD card is ready for use.
 
-• Now in the Aakash Applications select the proxyMITY icon as shown in the figure
-
-• A list of lectures will be displayed as shown in the sample figure below.
+• Now in the Aakash Applications select the proxyMITY icon.
+  A list of lectures will be displayed as shown in the sample figure below.
 .. image::
    https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/2.jpg
    		    
@@ -64,7 +65,7 @@ View the lecture using Wi-Fi connectivity
 
 • Connect Aakash Tablet with Wi-Fi.
 
-• Now in the Aakash Applications click on the proxyMITY-WiFi icon as shown in the figure.
+• Now in the Aakash Applications click on the proxyMITY-WiFi icon.
 
 • Select the menu button present on top as shown in figure below.
  .. image::
