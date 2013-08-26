@@ -107,35 +107,35 @@ Bookmark
 • To bookmark from particular time in the video lecture select the menu button present on top.
 
 • Click on the menu button and select the bookmark option as shown in the figure.
-  Figure(4.16)
+ .. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/19.png
 
 • Click on the bookmark option and the bookmark tab will be displayed as shown in the figure below
-  Figure(4.17)
+ .. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/3.png
 
 • You can select the bookmark from My Bookmarks tab to view the video lecture present in the SD-card/pendrive/server from the 
   time as saved in the My Bookmark.
 
 • To create a new bookmark click on new Bookmark option and the new bookmark option tab will be displayed as shown in the figure below.
-  Figure(4.18)
-
+  
 • Then you have to enter the Video name and the Bookmark Tag.
 • The start time is the time of the video lecture when you selected the bookmark option from menu.
-  Figure(4.19)
-
-• Then you have to enter the Video name and the Bookmark Tag.
-
-• The start time is the time of the video lecture when you selected the bookmark option from menu.
-  Figure(4.20)
+ .. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/4.png
 
 • Now select Add Bookmark button to save the bookmark.
 
 • When bookmark is saved, a message is displayed as shown in the figure below.
-  Figure(4.21)
+ .. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/20.png
 
 The bookmark is the saved in the My Bookmarks tab as shown in the figure below
 
 • To update/delete the bookmark in the My Bookmark tab keep that particular bookmark pressed till you see a dialog box as shown in the
-  figure below. Figure(4.22)
+  figure below.
+ .. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/6.png
 
 • Now you can update/delete that particular bookmark.
 
