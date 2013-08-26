@@ -26,6 +26,11 @@ Introduction
   Select the proxyMITY icon as shown in the figure below.
  .. image::
    https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/15.png
+   
+• To view the lecture using SD card/pendrive, select the SD-card button icon as shown in the figure below.
+
+• To view the lectures using Wi-Fi , select the WiFi button icon as shown in the figure below.
+   
 
 View lecture from proxyMITY
 ----------------------------
@@ -48,12 +53,7 @@ View lecture using SDCard/Pendrive
 .. image::
    https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/2.jpg
    		    
-• The lectures will be played automatically from SDCard/pendrive.
-
-
-• From the above list of videos the user can select any one of them and this will be displayed as shown in the
-  figure below
-  Figure(4.8)
+• From the above list of videos the user can select any one of them.
 
 • If u click on the right arrow then it displays structure of the video and transcripts.
 
@@ -68,16 +68,20 @@ View the lecture using Wi-Fi connectivity
   This means that tablet is connected with Wi-Fi.
   Figure(4.10)
 
-• Now in the Aakash Applications click on the proxyMITY-WiFi icon as shown in the figure5.5
+• Now in the Aakash Applications click on the proxyMITY-WiFi icon as shown in the figure.
 
 • Select the menu button present on top as shown in figure below.
-  Figure (4.11)
+ .. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/16.jpg
+   		    
 
 • Then ‘Wifi-Setting’ option in menu is displayed as shown in the figure below.
-  Figure(4.12)
+ .. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/17.jpg
 
 • A dialog box is displayed with an input text field as shown in figure below
-  Figure(4.13)
+ .. image::
+   https://raw.github.com/raehasandalwala/Enhancements-to-proxyMITY/master/images/18.jpg
 
 • Enter the IP address of the server from where you want to fetch the video lecture. (eg: 10.105.14.224)
 
