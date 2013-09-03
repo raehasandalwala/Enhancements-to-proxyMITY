@@ -1,39 +1,42 @@
-=====================
-Acknowledgement
-=====================
+=========
+Abstract
+=========
 
-We the summer interns team of Development on Aakash
-Platform are overwhelmed in all humbleness and gratefulness to
-acknowledge our depth to all those who have helped us to put
-our ideas and assigned work, well above the level of simplicity
-and into something concrete.
+As the name suggests, “proxyMITY” serves as a “proxy”,
+i.e. it provides virtual closeness (proximity) without the
+actual classroom. It is a “proxy Multimedia Integration
+Tool for You”, that helps teachers create dynamic rich-
+media lectures.
 
-We all thank whole heartedly **Prof. D.B. Phatak** for selecting us
-a part of his valuable project, constantly motivating for doing
-better and showing complete confidence in our work.
+“proxyMITY Lectures viewed on Aakash” is an Open
+source software product. Published lecture that are released
+under the Creative Commons License by Attributions
+2.5 are edited and prepared for distribution using
+proxyMITY.
 
-We are very thankful to our Project Manager **Mr.Parag Tiwari**
-and mentor **Raeha Sandalwala** for their valuable help. They
-were always there to show us the right track when we needed
-help. With help of their valuable suggestions, guidance and
-encouragement, we all were able to complete our tasks properly
-and with satisfaction. Also in the process, we learnt a lot other
-technical and non technical things from them and we consider
-ourselves to be very fortunate to have such Project Manager and
-mentor.
+The main goal of this project is to enhance the proxyMITY
+application previously developed on Android Platform
+using Eclipse, android SDK and ADT Plugins to view the
+video lectures present in the SD-Card or on a Server using
+Aakash tablet. The newer version has enhanced user
+experience and added functionalities such as:
 
-We would like to thank Mr. Dilip S able for making our stay
-hereas summer interns comfortable and for all his administrative
-help. Without him a lot of time would have gone in doing extra
-work rather than the main project work. Finally we also like to
-thank all other colleagues working in different projects under
-Prof. Phatak for helping us at small problems as well as critical
-junctures.
+• Implementing Drag and Drop feature for enhancing GUI.
+
+• Conducting quiz for self-evaluation of the student.
+
+• Transcripts of the video lectures.
+
+proxyMITY is an Open Source software and it is
+implemented using graphical user interface. Therefore it is
+going to be freely available. It is Platform Independent,
+easy to operate and maintain.
 
 
-=====================
+
+============
 Contents
-=====================
+============
 
   1. `Introduction <https://github.com/raehasandalwala/Enhancements-to-proxyMITY/blob/master/Introduction.rst>`_
 
@@ -105,37 +108,4 @@ Contents
 		3.4.1 Flowchart
   
 
-=========
-Abstract
-=========
-
-As the name suggests, “proxyMITY” serves as a “proxy”,
-i.e. it provides virtual closeness (proximity) without the
-actual classroom. It is a “proxy Multimedia Integration
-Tool for You”, that helps teachers create dynamic rich-
-media lectures.
-
-“proxyMITY Lectures viewed on Aakash” is an Open
-source software product. Published lecture that are released
-under the Creative Commons License by Attributions
-2.5 are edited and prepared for distribution using
-proxyMITY.
-
-The main goal of this project is to enhance the proxyMITY
-application previously developed on Android Platform
-using Eclipse, android SDK and ADT Plugins to view the
-video lectures present in the SD-Card or on a Server using
-Aakash tablet. The newer version has enhanced user
-experience and added functionalities such as:
-
-• Implementing Drag and Drop feature for enhancing GUI.
-
-• Conducting quiz for self-evaluation of the student.
-
-• Transcripts of the video lectures.
-
-proxyMITY is an Open Source software and it is
-implemented using graphical user interface. Therefore it is
-going to be freely available. It is Platform Independent,
-easy to operate and maintain.
 
