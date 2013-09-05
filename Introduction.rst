@@ -53,30 +53,21 @@ Android SDK and ADT Plugins. .It contains the features such as:
 
 Definitions, Acronyms, and Abbreviations.
 ````````````````````````````````````````
-+--------------+------------------------------------------------+
-| ABBREVIATIONS|       DEFINITIONS                              | 
-+==============+================================================+
-| ADT          | Android Developments Tools                     |
-+--------------+------------------------------------------------+
-| API	         | Application Programming Interface              |
-+--------------+------------------------------------------------+
-| AVD          | Android Virtual Device                         |
-+--------------+------------------------------------------------+
-| GUI          | Graphical User Interface                       |
-+--------------+------------------------------------------------+
-| IDE          | Integrated Development Environment             |
-+--------------+------------------------------------------------+
-| proxyMITY    | proxy Multimedia Integration Tool For You      |
-+--------------+------------------------------------------------+
-| SDD          | Software Design Document                       |
-+--------------+------------------------------------------------+
-| SRS          | Software Requirements Specification            |
-+--------------+------------------------------------------------+
-| SDK          | Software Development Kit                       |
-+--------------+------------------------------------------------+
-| XML          | Extended Markup Language                       |
-+--------------+------------------------------------------------+
+==================   ============
+Abbreviation         Description
+==================   ============
+ADT                  Android Developments Tools
+API 	               Application Programming Interface
+AVD                  Android Virtual Device
+GUI 	               Graphical User Interface
+IDE 	               Integrated Development Environment 
+proxyMITY            proxy Multimedia Integration Tool For You
+SDD	                 Software Design Document
+SRS	                 Software Requirements Specification
+SDK	                 Software Development Kit
+XML	                 Extended Markup Language
 
+==================   ============
 Overview
 `````````
 This Software Requirements Specification (SRS) is the requirements
