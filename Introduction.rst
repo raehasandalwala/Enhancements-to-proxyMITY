@@ -53,27 +53,29 @@ Android SDK and ADT Plugins. .It contains the features such as:
 
 Definitions, Acronyms, and Abbreviations.
 ````````````````````````````````````````
-Acronym or Description Abbreviation
-
-#. ADT        : Android Developments Tools
-
-#. API 	  	  : Application Programming Interface
-
-#. AVD 		    : Android Virtual Device
-
-#. GUI 		    : Graphical User Interface
-
-#. IDE 		    : Integrated Development Environment 
-
-#. proxyMITY	: proxy Multimedia Integration Tool For You
-
-#. SDD		    : Software Design Document
-
-#. SRS		    : Software Requirements Specification
-
-#. SDK		    : Software Development Kit
-
-#. XML		    : Extended Markup Language
++--------------+------------------------------------------------+
+| ABBREVIATIONS|       DEFINITIONS                              | 
++==============+================================================+
+| ADT          | Android Developments Tools                     |
++--------------+------------------------------------------------+
+| API	         | Application Programming Interface              |
++--------------+------------------------------------------------+
+| AVD          | Android Virtual Device                         |
++--------------+------------------------------------------------+
+| GUI          | Graphical User Interface                       |
++--------------+------------------------------------------------+
+| IDE          | Integrated Development Environment             |
++--------------+------------------------------------------------+
+| proxyMITY    | proxy Multimedia Integration Tool For You      |
++--------------+------------------------------------------------+
+| SDD          | Software Design Document                       |
++--------------+------------------------------------------------+
+| SRS          | Software Requirements Specification            |
++--------------+------------------------------------------------+
+| SDK          | Software Development Kit                       |
++--------------+------------------------------------------------+
+| XML          | Extended Markup Language                       |
++--------------+------------------------------------------------+
 
 Overview
 `````````
