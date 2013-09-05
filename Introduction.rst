@@ -2,12 +2,12 @@ Introduction
 ------------
 Purpose
 ````````
-As the name suggests, “proxyMITY” serves as a “proxy”, i.e. it
+As the name suggests, **proxyMITY** serves as a **proxy**, i.e. it
 provides virtual closeness (proximity) without the actual classroom. It
-is a “Proxy Multimedia Integration Tool for You”, that helps teachers
+is a **Proxy Multimedia Integration Tool for You**, that helps teachers
 create dynamic rich-media lectures.
 
-Enhancements of proxyMITY on Aakash Tablet will help users to get
+**Enhancements to proxyMITY** on Aakash Tablet will help users to get
 access to quality lectures of reputed teachers, for effective personalized
 learning. They have the flexibility of studying anytime, anywhere, and
 at their own pace.
@@ -24,7 +24,7 @@ environment is user friendly so the users feel comfortable.
 
 Scope
 `````
-“proxyMITY Lectures viewed on Aakash” is an Open source software
+**proxyMITY Lectures viewed on Aakash** is an Open source software
 product. Published lectures that are released under the Creative
 Commons License by Attributions 2.5 are edited and prepared for
 distribution using proxyMITY.
@@ -37,7 +37,7 @@ available. It is Platform- Independent and easy to operate and maintain.
 
 Existing System
 ```````````````
-proxyMITY is available as an android application which has limited
+**proxyMITY** is available as an android application which has limited
 functionality. Students can select the video lectures and can navigate in
 it using tree structure. By using bookmarks they can update and store
 the video bookmarks in SQLite database. By selecting subtitles user
@@ -46,9 +46,12 @@ can view the video subtitles.
 Proposed System
 ```````````````
 Developing the proxyMITY tool on Android Platform using Eclipse,
-Android SDK and ADT Plugins. .It contains the features such as:
+Android SDK and ADT Plugins. It contains the features such as:
+
 • User-friendly GUI.
+
 • By attending Quiz session user can test the performance.
+
 • Transcripts which can be viewed as a text file.
 
 Definitions, Acronyms, and Abbreviations.
