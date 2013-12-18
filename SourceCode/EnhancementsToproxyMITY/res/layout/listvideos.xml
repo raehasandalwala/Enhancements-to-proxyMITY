@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_wifi_logo" 
+    tools:context=".ListVideos">
+    <LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+     >
+    <EditText android:id="@+id/EditText01" 
+android:layout_height="wrap_content" 
+android:layout_width="fill_parent"
+ android:hint="Quick Search"
+android:layout_weight="20"
+ android:textColor="#FFFFFF"
+ >
+ </EditText>
+ <ImageButton 
+android:id="@+id/srch"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content" 
+android:src="@drawable/search"
+android:layout_weight="80">
+</ImageButton>
+</LinearLayout>
+
+ <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbarAlwaysDrawVerticalTrack="true"
+        android:verticalScrollbarPosition="right" >
+    </ListView>
+    
+
+</LinearLayout>

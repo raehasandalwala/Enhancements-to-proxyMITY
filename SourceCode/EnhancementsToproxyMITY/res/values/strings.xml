@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">proxyMITY</string>
+    
+    <string name="action_settings">Settings</string>
+    <string name="menu_settings">Settings</string>
+     <string name="hello">Hello World, ListVideoes!</string>
+   
+   <string name="camera_stream_URL">IP Address of Server</string>
+   <string name="enter_stream_url">Enter IP Address of Server</string>
+   <string name="default_stream_URL"></string>
+   <string name="settings">Settings</string>
+   <string name="hello_world">Hello world!</string>
+   <color name="blue">#2270D5</color>
+   <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+   <string name="title_activity_help">Help</string>
+	<color name="white">#FFFFFF</color>
+    <color name="corn">	#D3D3D3</color>
+
+</resources>

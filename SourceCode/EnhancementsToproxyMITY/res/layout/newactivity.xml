@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    android:id="@+id/ll0"
+    android:background="@drawable/images_b"
+    android:weightSum="1"
+    >
+    
+    <SlidingDrawer
+      
+        android:layout_width="200dp"
+        android:id="@+id/SlidingDrawer0"
+        android:handle="@+id/slideButton0"
+        android:content="@+id/contentLayout0"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="left"
+        android:rotation="180"
+      >
+            <ImageView android:layout_width="25dp"
+                        android:layout_height="50dp"
+                android:id="@+id/slideButton0"
+                android:contentDescription="hh"
+                android:rotation="180"       
+                >
+            </ImageView>
+<LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue"
+    android:orientation="vertical"
+ android:id="@+id/contentLayout0"
+    
+  >
+ <ListView 
+        android:id="@+id/ListView1"
+        android:layout_width="fill_parent"
+        android:background="@drawable/border_ui"
+        android:layout_height="fill_parent"
+         android:divider="@android:color/black"
+  android:dividerHeight="10.0sp"
+  android:cacheColorHint="@color/corn"
+  android:rotation="180"
+        android:layout_gravity="left">
+ </ListView>
+   </LinearLayout>
+   </SlidingDrawer>
+   
+<LinearLayout 
+     android:layout_width="0dp"
+     android:layout_weight="1"
+     android:id="@+id/ll1"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:weightSum="1"
+    >
+  <LinearLayout 
+     android:layout_width="fill_parent"
+     android:layout_weight="0.1"
+      android:id="@+id/ll2"
+    android:layout_height="0dp"
+    android:orientation="vertical"
+    >
+  <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+         android:layout_marginLeft="10dp"
+         android:textSize="25sp"
+         android:textStyle="bold"
+         android:gravity="center_horizontal"
+         android:textColor="#FFFFFF"
+        />
+  </LinearLayout>
+  <LinearLayout 
+     android:layout_width="fill_parent"
+     android:layout_weight="0.9"
+    android:layout_height="0dp"
+     android:id="@+id/ll3"
+    android:orientation="vertical"
+    android:background="@color/blue"
+    >
+  <VideoView
+        android:id="@+id/videoView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+         android:layout_marginLeft="10dp"
+      
+         
+        />
+  </LinearLayout>
+
+</LinearLayout>
+
+
+
+  <SlidingDrawer
+        android:layout_width="200dp"
+        android:id="@+id/SlidingDrawer"
+        android:handle="@+id/slideButton"
+        android:content="@+id/contentLayout"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="right"
+      >
+            <ImageView android:layout_width="25dp"
+                        android:layout_height="50dp"
+                android:id="@+id/slideButton"
+                android:contentDescription="hh"
+                >
+            </ImageView>
+             <LinearLayout 
+     android:layout_width="200dp"
+     android:layout_height="fill_parent"
+     android:id="@+id/contentLayout"
+    android:orientation="vertical"
+    android:weightSum="1"
+    >
+  <ImageView
+    android:layout_width="fill_parent"
+  android:layout_height="0dp"
+  android:id="@+id/b"
+  android:layout_weight="0.2"
+  >
+</ImageView>
+  </LinearLayout>
+         
+           </SlidingDrawer>
+           
+  </LinearLayout>
