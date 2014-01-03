@@ -6,6 +6,7 @@ import java.io.File;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.webkit.WebView;
 
@@ -30,7 +31,7 @@ public class Help extends Activity {
         helppage = (WebView) findViewById(R.id.helpwebView);
         helppage.getSettings().setJavaScriptEnabled(true);
         //helppage.loadUrl("file:///android_asset/help.html");
-       
+        helppage.setBackgroundColor(Color.rgb(192,222,255));
         // Searches for the "proxyMITY_wifi_help.html" file which contains the description
         if (new File("/mnt/extsd/Instructions/proxyMITY_wifi_help.html").exists())
     		
